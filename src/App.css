@@ -1,3 +1,6 @@
+.pic-test {
+  background: url('./logo.svg');
+}
 .App {
   text-align: center;
 }
